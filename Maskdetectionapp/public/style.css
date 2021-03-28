@@ -1,0 +1,171 @@
+
+/* backgrond */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Reem Kufi', sans-serif;
+  }
+
+  body{
+      overflow-x: auto;
+    background: url(./maskdetection.png) no-repeat top center/cover;
+  }
+
+  i {
+      color: red;
+  }
+
+  .container {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  
+  #main_container {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
+      text-align: center;
+      margin: 1rem 5rem;
+  }
+  
+  .lout {
+      margin: 1rem 3rem;
+  }
+  
+  /* Header */
+  
+  .header,
+  .ft{
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    background: #000000;
+    font-family: 'Reem Kufi', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15.8px;
+    line-height: 269.5%;
+    letter-spacing: 0.11em;
+    color: #FFFFFF;
+    letter-spacing: 0.11em;
+    border-radius: 0px 0px 65px 65px;
+}
+
+.ft{
+    border-radius: 0px;
+}    
+
+.webcam{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 1.5rem;
+}
+
+.webcam__container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 410px;
+    background: #000000;
+    border-radius: 33px;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+
+.label-container{
+    display: flex;
+}
+
+
+.label-container div:first-child{
+    padding: 1rem 1.4rem;
+    font-weight: 600;
+    font-family: Roboto;
+    font-size: 1.3rem;
+    background: green;
+    border-radius: 10px;
+    margin: 1rem;
+}
+
+.label-container div:last-child{
+
+    padding: 1rem 1.4rem;
+    font-weight: 600;
+    font-family: Roboto;
+    font-size: 1.3rem;
+    background: red;
+    border-radius: 10px;
+    margin: 1rem;
+}
+
+.contain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40rem;
+    height: min-content;
+}
+
+/* star & logoutt button */
+.start,
+.lout{
+
+    border: none;
+    background: #C4C4C4;
+    padding: 0.8rem 1rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-align: center;
+    
+}
+
+
+/* media queries */
+@media(max-width: 610px) {
+    .header{
+        font-size: 0.8rem;
+    }
+    .ft{
+        font-size: 0.6rem;
+    }
+    .webcam__container {
+        width: 90%;
+        height: 360px;
+    }
+
+    .label-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .start,
+    .lout {
+    margin: 1.2rem;
+}
+}
+
+@media(max-width: 330px) {
+    .header, 
+    .ft {
+        font-size: 0.6rem;
+    }
+
+    .container {
+        margin: 2.5rem 0rem;
+    }
+
+}
