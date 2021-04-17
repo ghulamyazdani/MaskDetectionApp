@@ -1,8 +1,11 @@
 # MaskDetectionApp
+A screenshott of the webapp
+![maskdetection](https://user-images.githubusercontent.com/55938346/115107392-406a2980-9f88-11eb-9e54-cd86f5ee96bd.PNG)
 
 This project is all about detecting mask on persons face whether he/she is wearing mask or not. As Coronavirus pandemic has hit our livelihood mask has become one of the important thing in our lives. It helps protect us from the viruses which are transmitted through air. As government has strictly said that everyone has to wear respected mask everywhere they go, yet so many peoples aren't wearing masks properly. So for this situation we have created a mask detection app which will detect if the person is wearing mask or not. 
 
 Live website - https://maskdetectionapp.biz/
+Demo video - https://www.youtube.com/watch?v=m5sHA1sG9zA
 
 Topic we choosed from the 17 sustainable goals-
 
