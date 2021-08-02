@@ -1,7 +1,7 @@
 var fireBase = fireBase || firebase;
 var hasInit = false;
 var config = {
-    apiKey: "AIzaSyCuBCg4-tZNtyHUVFBgwu31gHUqDK5vWv8",
+    apiKey: "",
     authDomain: "maskdetection-app.firebaseapp.com",
     projectId: "maskdetection-app",
     storageBucket: "maskdetection-app.appspot.com",
