@@ -1,8 +1,9 @@
 # MaskDetectionApp
 
-A screenshott of the webapp
 
 ![maskdetection](https://user-images.githubusercontent.com/55938346/115107392-406a2980-9f88-11eb-9e54-cd86f5ee96bd.PNG)
+
+                                                Screnshort of web application 
 
 This project is all about detecting mask on persons face whether he/she is wearing mask or not. As Coronavirus pandemic has hit our livelihood mask has become one of the important thing in our lives. It helps protect us from the viruses which are transmitted through air. As government has strictly said that everyone has to wear respected mask everywhere they go, yet so many peoples aren't wearing masks properly. So for this situation we have created a mask detection app which will detect if the person is wearing mask or not. 
 
@@ -10,11 +11,12 @@ Live website - https://maskdetectionapp.biz/
 
 Demo video - https://www.youtube.com/watch?v=m5sHA1sG9zA
 
-Topic we choosed from the 17 sustainable goals:- 
+__Topic we choosed from the 17 sustainable goals:-__
 
 We choosed " Good Health & Wellbeing " as a theme for our project and created a mask detection web app.As Coronavirus pandemic has hit our livelihood mask has become one of the important thing in our lives. It helps protect us from the viruses which are transmitted through air. As government has strictly said that everyone has to wear respected mask everywhere they go, yet so many peoples aren't wearing masks properly. So for this situation we have created a mask detection app which will detect if the person is wearing mask or not. 
 
-Technologies used-
+# Technologies used-
+
 ```
 1.FRONTEND     HTML,CSS
 2.BACKEND Javascript,FIREBASE
@@ -29,3 +31,7 @@ For creating the prototype(UI) of a our web app we used Figma which was our over
 # Challenges Faced 
 
 This project was filled with so many challenges one was the styling the machine learning model which we created with tensorflow.js and combining it with our frontend.So for that we researched on google and youtube and yeah we were able to resolve the issue thanks to our team members for having such a great team spirit we constantly worked on the issue and yeah we resolve it.
+
+# Future Goals
+
+In v.2 , we will make an app version of this website. In that app there will some extra features like when the user will login we will take phone no.  so that we can send notification to them to remind them about the safety and importance of wearing mask. We will be adding some more features like if the user is not wearing properly or not wearing then we will notify him with a message e.g. "Please Wear mask and flow the measures for your safety" . Otherwise, we will notify him "Well done! Please keep following the precautions" if he wears mask.
