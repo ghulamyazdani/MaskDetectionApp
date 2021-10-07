@@ -47,15 +47,16 @@
     text-align: center;
     padding: 1rem;
     background: #000000;
-    font-family: 'Reem Kufi', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15.8px;
-    line-height: 269.5%;
-    letter-spacing: 0.11em;
+    font-family: 'Barlow Semi Condensed', sans-serif;
     color: #FFFFFF;
-    letter-spacing: 0.11em;
-    border-radius: 0px 0px 65px 65px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 42px;
+display: absolute;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
 }
 
 .ft{
@@ -69,6 +70,7 @@
     text-align: center;
     align-items: center;
     margin: 1.5rem;
+
 }
 
 .webcam__container{
@@ -125,12 +127,29 @@
 .lout{
 
     border: none;
-    background: #C4C4C4;
-    padding: 0.8rem 1rem;
+    background: #000000;
     font-size: 1.1rem;
     font-weight: 600;
     text-align: center;
+    width: 191px;
+    height: 57px;
+    font-family: Changa;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 44px;
+display: absolute;
+align-items: center;
+text-align: center;
+border-radius: 12px;
+text-transform: uppercase;
+color: #FFFFFF;
+
     
+}
+.start:hover{
+    background-color: #FFFFFF;
+    color: #000000;
 }
 
 
