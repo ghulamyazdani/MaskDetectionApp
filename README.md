@@ -17,10 +17,10 @@ It helps protect us from the viruses which are transmitted through the air. As t
 yet so many peoples aren't wearing masks properly. So for this situation, we have created a mask detection app that will detect if the person is wearing a mask or not.
 ## Technologies used-
 ```
-1.FRONTEND     HTML,CSS
-2.BACKEND Javascript,FIREBASE
-3.MasDETECTION Model  TENSORFLOW.JS
-4.UI/UX     FIGMA 
+1.FRONTEND :    HTML,CSS
+2.BACKEND : Javascript,FIREBASE
+3.MasDETECTION :  Model  TENSORFLOW.JS
+4.UI/UX  :   FIGMA 
 ```
 ---
 ## ✍️ Process of Creating <div align="center"> <img src="https://user-images.githubusercontent.com/75877192/137031059-4bb06124-9a81-49dd-b599-01feddd9dc07.png" width="400"></div>
