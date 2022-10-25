@@ -13,7 +13,7 @@ so many peoples aren't wearing masks properly. So for this situation, we have cr
 ## Topic we choosed from the 17 sustainable goals:-
 We chose `"Good Health & Wellbeing"` as a theme for our project and created a mask detection web app.
 As the Coronavirus pandemic has hit our livelihood mask has become one of the important thing in our lives.
-It helps protect us from the viruses which are transmitted through the air. As the government has strictly said that everyone has to wear masks everywhere they go,
+It helps us to protect from the viruses which are transmitted through the air. As the government has strictly said that everyone has to wear masks everywhere they go,
 yet so many peoples aren't wearing masks properly. So for this situation, we have created a mask detection app that will detect if the person is wearing a mask or not.
 ## Technologies used-
 ```
