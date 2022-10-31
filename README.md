@@ -1,8 +1,8 @@
-# 😷 Mask Detection App.
+<h1># 😷 Mask Detection App.</h1>
 <div align="center"> <img src="https://user-images.githubusercontent.com/75877192/136987616-8b3e476b-caba-4ea8-866d-593412bdc8bb.png" width="90"><img src="https://user-images.githubusercontent.com/55938346/115107392-406a2980-9f88-11eb-9e54-cd86f5ee96bd.PNG" width="600px"><img src="https://user-images.githubusercontent.com/75877192/136987600-3f724692-7e1f-4d4e-a9f3-c7e1517fe15a.png" width="90"></div>
 
                                                 Screnshort of web application 
-# About this project:-
+<h3># About this project:-</h3>
 <div align="left"> <img src="https://user-images.githubusercontent.com/75877192/137022749-2e29d421-d937-41a5-8442-4248ea2354a1.png" width="150px">This project is all about detecting mask on person's face whether he/she is wearing a mask or not.
 As the Coronavirus pandemic has hit our livelihood mask has become one of the important things in our lives.
 It helps protect us from the viruses which are transmitted through air. As the government has strictly said that everyone has to wear masks everywhere they go, yet
@@ -15,7 +15,7 @@ We chose `"Good Health & Wellbeing"` as a theme for our project and created a ma
 As the Coronavirus pandemic has hit our livelihood mask has become one of the important thing in our lives.
 It helps us to protect from the viruses which are transmitted through the air. As the government has strictly said that everyone has to wear masks everywhere they go,
 yet so many peoples aren't wearing masks properly. So for this situation, we have created a mask detection app that will detect if the person is wearing a mask or not.
-## Technologies used-
+<h3>## Technologies used-</h3>
 ```
 1.FRONTEND     HTML,CSS
 2.BACKEND Javascript,FIREBASE
